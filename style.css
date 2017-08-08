@@ -1,0 +1,27 @@
+.page-header-container {
+  padding: 0 100px;
+}
+
+.page-header {
+  border: 1px solid black;
+  margin-bottom: 40px;
+  width: 300px;
+  margin: 20px;
+}
+
+.food-section-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 100px;
+}
+
+.food-section {
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
+  margin: 20px;
+}
+
+hr {
+  margin: 0 120px;
+}
